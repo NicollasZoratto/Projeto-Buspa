@@ -14,10 +14,6 @@ Tailwind CSS (via CDN)
 
 SQL.js (SQLite compilado para WebAssembly)
 
-📥 Instalação
-Clone ou baixe o arquivo HTML:
-
-bash
 # Se estiver usando Git
 git clone <url-do-repositorio>
 Certifique-se de ter uma conexão com internet para carregar os recursos externos (CDNs do Tailwind CSS e SQL.js).
